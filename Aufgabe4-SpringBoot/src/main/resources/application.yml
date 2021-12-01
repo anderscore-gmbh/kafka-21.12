@@ -1,0 +1,4 @@
+spring.kafka:
+  bootstrap-servers: broker-1.k.anderscore.com:9092
+  consumer.group-id: gfuSample
+  consumer.auto-offset-reset: earliest
